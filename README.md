@@ -39,11 +39,19 @@ I build AI-native products that make model behavior easier to use, inspect, and 
 
 ### AI Products + Agents
 
+<p>
+  <img src="assets/ai-product-cards.webp" alt="AI product cards showing Oakminder, LinkedIn Growth Loop, and Agentic Brain" width="100%">
+</p>
+
 - 🤖 **[Oakminder](https://steveoak.com/work/oakminder)** - reminder follow-through, voice-agent actions, native urgency, and distribution systems
 - 🔗 **[LinkedIn Growth Loop](https://steveoak.com/work/linkedin-growth-loop)** - high-autonomy agent teams for relationship work with browser control and validation
 - 🧠 **[Agentic Brain](https://steveoak.com/work/agentic-brain)** - short-term and long-term memory systems for AI agents and agentic development
 
 ### Applied AI + Product Systems
+
+<p>
+  <img src="assets/applied-ai-cards.webp" alt="Applied AI cards showing EcoSmartLoop, OmniSocial, and SteveOak.com" width="100%">
+</p>
 
 - ♻️ **[EcoSmartLoop](https://steveoak.com/work/ecosmartloop)** - AI sorting model and AI agent platform for a $640B waste problem and 450K California businesses
 - 📣 **[OmniSocial](https://steveoak.com/work/omnisocial)** - agentic content production with browser harness
