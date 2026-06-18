@@ -71,7 +71,7 @@ I build AI-native products that make model behavior easier to use, inspect, and 
 [![Website](https://img.shields.io/badge/-SteveOak.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://steveoak.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:okkark.pro@gmail.com)
 [![Steve Oak (LinkedIn)](https://img.shields.io/badge/-Steve_Oak_(LinkedIn)-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whoisoak/)
-[![GitHub](https://img.shields.io/badge/-Absorber97-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Absorber97)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Absorber97)
 [![X](https://img.shields.io/badge/-ForbiddenSteve-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ForbiddenSteve)
 [![YouTube](https://img.shields.io/badge/-notforbiddensteve-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@notforbiddensteve)
 [![Instagram](https://img.shields.io/badge/-notforbiddensteve-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/notforbiddensteve/)
