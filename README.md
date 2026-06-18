@@ -25,6 +25,10 @@ I build AI-native products that make model behavior easier to use, inspect, and 
 
 ## Background
 
+<p>
+  <img src="assets/career-cards.webp" alt="Career cards showing Oak's AI, design engineering, automation, and full-stack background" width="100%">
+</p>
+
 - ⚙️ 2026 - **[Agentic AI Engineer, HyperSkalers](https://steveoak.com/work#career-hyperskalers)** - applied AI systems for media buying, funnels, SEO/AEO, GTM, and client-specific memory
 - 🎓 2024-2026 - **[M.S. Computer Science, San Francisco Bay University](https://steveoak.com/work#career-san-francisco-bay-university)** - graduate AI work, RAG, machine learning, and EcoSmartLoop capstone systems
 - 📈 2024-2025 - **[AI Automation Engineer + Lead Designer, Uhttention](https://steveoak.com/work#career-uhttention)** - AI automation, conversion UX, Webflow CMS, lead-gen funnels, chatbots, and content workflows
